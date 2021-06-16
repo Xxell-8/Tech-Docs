@@ -8,5 +8,5 @@
 
 #### Part 1. CS
 
-1. Data Structure (`...ing`)
+1. [Data Structure](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/1-1.DataStructure.md) (`...ing`)
 
