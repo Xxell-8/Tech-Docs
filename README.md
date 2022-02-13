@@ -16,6 +16,9 @@
 
 #### Part 2. Language
 
+1. [Python](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/2-1.Python.md)
+2. [JavaScript](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/2-2JavaScript.md)
+
 
 
 #### Part 3. Dev Process
