@@ -6,13 +6,13 @@
 >    1. [식별자 (Identifier)](#1.-식별자 (Identifier))
 >    2. [변수 선언](#2.-변수-선언)
 > 2. [Data Type](#2.-Data-Type)
-> 3. [Control flow](#3. Conditions & Loops)
->    1. [Conditions](#1. Conditions)
->    2. [Loops](#2. Loops)
-> 4. [Function](#4. Function)
-> 5. [Object](#5. Arrays & Objects)
+> 3. [Control flow](#3.-Control-flow)
+>    1. [Conditions](#1.-Conditions)
+>    2. [Loops](#2.-Loops)
+> 4. [Function](#4.-Function)
+> 5. [Object](#5-arrays--objects)
 >
-> - [[참고] `this` in JavaScript](#* `this` in JavaScript)
+> - [[참고] `this` in JavaScript](#-this-in-javascript)
 
 
 
@@ -317,7 +317,7 @@
 
     
 
-## 3. Conditions & Loops
+## 3. Control flow
 
 ### 1. Conditions
 
