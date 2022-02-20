@@ -21,7 +21,15 @@
 
 
 
-#### Part 3. Dev Process
+#### Part3. Framework
+
+1. Django
+2. Vue.js
+
+
+
+#### Part 4. Dev Process
 
 1. Linux 서버 구축
 2. DevOps 개발 환경 구축
+
