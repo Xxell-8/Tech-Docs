@@ -18,6 +18,8 @@
 
 1. [Python](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/2-1.Python.md)
 2. [JavaScript](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/2-2JavaScript.md)
+3. [HTML](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/2-3HTML.md)
+4. [CSS](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/2-4CSS.md)
 
 
 
