@@ -24,7 +24,7 @@
 #### Part3. Framework
 
 1. [Django](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/3-1Django.md)
-2. Vue.js
+2. [Vue.js](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/3-2Vue.md)
 
 
 
