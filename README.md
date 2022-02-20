@@ -23,13 +23,13 @@
 
 #### Part3. Framework
 
-1. Django
+1. [Django](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/3-1Django.md)
 2. Vue.js
 
 
 
 #### Part 4. Dev Process
 
-1. Linux 서버 구축
-2. DevOps 개발 환경 구축
+1. [Linux 서버 구축](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/4-1.LinuxServer.md)
+2. [DevOps 개발 환경 구축(feat. GitHub Actions)](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/4-2.Vue-DevOps.md)
 
