@@ -30,8 +30,11 @@
 
 
 
-#### Part 4. Dev Process
+#### Part 4. Dev Env
 
-1. [Linux 서버 구축](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/4-1.LinuxServer.md)
-2. [DevOps 개발 환경 구축(feat. GitHub Actions)](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/4-2.Vue-DevOps.md)
+- [CLI 활용하기](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/cli.md)
+
+- [Linux 서버 구축](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/4-1.LinuxServer.md)
+
+- [DevOps 개발 환경 구축(feat. GitHub Actions)](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/4-2.Vue-DevOps.md)
 
