@@ -9,32 +9,38 @@
 
 #### Part 1. CS
 
-1. [Data Structure](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/1-1.DataStructure.md) (`...ing`)
-2. [Network](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/1-2.Network.md) (`...ing`)
+- [Data Structure](./contents/cs/DataStructure.md) (`...ing`)
+
+- [Network](./contents/cs/Network.md) (`...ing`)
 
 
 
 #### Part 2. Language
 
-1. [Python](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/2-1.Python.md)
-2. [JavaScript](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/2-2JavaScript.md)
-3. [HTML](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/2-3HTML.md)
-4. [CSS](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/2-4CSS.md)
+- [Python](./contents/language/Python.md)
 
+- [JavaScript](./contents/language/JavaScript.md)
 
+- [HTML](./contents/language/HTML.md)
+
+- [CSS](./contents/language/CSS.md)
+
+  
 
 #### Part3. Framework
 
-1. [Django](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/3-1Django.md)
-2. [Vue.js](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/3-2Vue.md)
+- [Django](./contents/framework/Django.md)
+
+- [Vue.js](./contents/framework/Vue.md)
 
 
 
 #### Part 4. Dev Env
 
-- [CLI 활용하기](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/cli.md)
+- [CLI 활용하기](./contents/dev-env/CLI.md)
+- [Git 활용하기](./contents/dev-env/Git.md)
 
-- [Linux 서버 구축](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/4-1.LinuxServer.md)
+- [Linux 서버 구축](./contents/dev-env/LinuxServer.md)
 
-- [DevOps 개발 환경 구축(feat. GitHub Actions)](https://github.com/Xxell-8/Tech-Docs/blob/main/contents/4-2.Vue-DevOps.md)
+- [DevOps 개발 환경 구축(feat. GitHub Actions)](./contents/dev-env/Vue-DevOps.md)
 
