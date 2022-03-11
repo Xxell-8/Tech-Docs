@@ -2,7 +2,7 @@
 
 > - 자료구조란, 데이터에 편리하게 접근하고 변경하기 위해 데이터를 저장하거나 조작하는 방법으로 볼 수 있습니다.
 >
->   ![data_structure](assets/1-1.DataStructure.assets/data_structure.jpg)
+>   ![data_structure](../assets/DataStructure.assets/data_structure.jpg)
 
 
 

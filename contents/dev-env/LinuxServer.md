@@ -94,7 +94,7 @@
     2. Connection > SSH > Auth 로 이동하여 프라이빗 키 파일(`*.ppk`)을 등록합니다.
     3. Session으로 돌아와 Session을 등록한 뒤 서버를 오픈합니다.
 
-  ![image-20210630172052846](assets/3-1. LinuxServer.assets/image-20210630172052846.png)
+  ![image-20210630172052846](../assets/LinuxServer.assets/image-20210630172052846.png)
 
 
 

@@ -138,7 +138,7 @@
 
 - 애플리케이션 로직을 UI로부터 분리하기 위해 설계된 디자인 패턴
 
-  ![MVVMPattern](assets/3-2.Vuejs.assets/MVVMPattern.png)
+  ![MVVMPattern](../assets/Vue.assets/MVVMPattern.png)
 
 
 
@@ -310,7 +310,7 @@
 
 - 그 과정에서 사용자 정의 로직을 실행할 수 있는 라이프 사이클 훅도 호출됨
 
-  ![lifecycle](assets/3-2.Vuejs.assets/lifecycle.png)
+  ![lifecycle](../assets/Vue.assets/lifecycle.png)
 
   
 
